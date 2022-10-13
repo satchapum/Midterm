@@ -1,0 +1,15 @@
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.csproj.AssemblyReference.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.AssemblyInfoInputs.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.AssemblyInfo.cs
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.csproj.CoreCompileInputs.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\bin\Debug\net6.0\ข้อ1.exe
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\bin\Debug\net6.0\ข้อ1.deps.json
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\bin\Debug\net6.0\ข้อ1.runtimeconfig.json
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\bin\Debug\net6.0\ข้อ1.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\bin\Debug\net6.0\ข้อ1.pdb
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\refint\ข้อ1.dll
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.pdb
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ข้อ1.genruntimeconfig.cache
+C:\Users\zilfa\OneDrive\เดสก์ท็อป\MidtermMDT211\ข้อ1\obj\Debug\net6.0\ref\ข้อ1.dll
