@@ -103,6 +103,7 @@ class Program {
 
     public static void PresentMenuRegister(MenuRegister menuregister, int Type, Person login) {
         if(menuregister == MenuRegister.RegisterToCampaign) {
+            Console.Clear();
             Console.Write("Input Type (1: Student University,2: Student School ,3: Teacher) : ");
             Type = int.Parse(Console.ReadLine());
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\ข้อ1\\ข้อ1.csproj": {}
+    "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\Quiz1\\ข้อ1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\ข้อ1\\ข้อ1.csproj": {
+    "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\Quiz1\\ข้อ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\ข้อ1\\ข้อ1.csproj",
+        "projectUniqueName": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\Quiz1\\ข้อ1.csproj",
         "projectName": "ข้อ1",
-        "projectPath": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\ข้อ1\\ข้อ1.csproj",
+        "projectPath": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\Quiz1\\ข้อ1.csproj",
         "packagesPath": "C:\\Users\\zilfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\ข้อ1\\obj\\",
+        "outputPath": "C:\\Users\\zilfa\\OneDrive\\เดสก์ท็อป\\MidtermMDT211\\Quiz1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
